@@ -1,0 +1,1 @@
+This Python code implements a simple face recognition system with user registration functionality using the face_recognition library, OpenCV (cv2), Tkinter, and MySQL.
